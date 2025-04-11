@@ -1,4 +1,5 @@
-google-generativeai
 flask
-langchain 
-langchain_groq
+flask-cors
+google
+google-genai
+groq
